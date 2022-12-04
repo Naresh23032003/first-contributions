@@ -67,6 +67,7 @@ Edward Abel-Guobadia
 - [Aadi joshi](https://github.com/AadiJ2022) @devsoc PI Devsoc
 - [Devansh Mehta@DevsocPI](https://github.com/Coderpromax8)
 - [Utkarsh@DevsocPI](https://github.com/0xAnon0602)
+- [Naresh](https://github.com/Naresh23032003)
 - <harhsit kapoor>@Devsoc@PI
 - [Pawan Yadav](https://github.com/pawanyy)
 - [CherylChaudhari@DevsocPI](https://github.com/cherxoxo10)
